@@ -1,0 +1,1550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onUpdate"
+			],
+			[
+				"sources",
+				"sourcesProtoer"
+			],
+			[
+				"regis",
+				"register"
+			],
+			[
+				"aut",
+				"authorized"
+			],
+			[
+				"get",
+				"getOwnPropertyDescriptor"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"app",
+				"appHandle"
+			],
+			[
+				"cl",
+				"clustering"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"crea",
+				"createStream"
+			],
+			[
+				"Row",
+				"RowColumn"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"stre",
+				"stream"
+			],
+			[
+				"active",
+				"activeStream"
+			],
+			[
+				"strea",
+				"streams"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"sol",
+				"soldiersDoc"
+			],
+			[
+				"en",
+				"enabled"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"Swarm",
+				"SwarmHTTPAdapter"
+			],
+			[
+				"is",
+				"is_number"
+			],
+			[
+				"Meth",
+				"MethodSuper"
+			],
+			[
+				"Method",
+				"MethodSelf"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"method",
+				"method_call"
+			],
+			[
+				"un",
+				"unbound_method"
+			],
+			[
+				"class",
+				"class_init"
+			],
+			[
+				"u",
+				"unbound_method"
+			],
+			[
+				"unb",
+				"unbound_method"
+			],
+			[
+				"und",
+				"unbound_method"
+			],
+			[
+				"rec",
+				"receive"
+			],
+			[
+				"module",
+				"module_instance_method"
+			],
+			[
+				"class_",
+				"class_instance_method"
+			],
+			[
+				"met",
+				"metaclass"
+			],
+			[
+				"MC",
+				"MCla1"
+			],
+			[
+				"meta",
+				"metaclass"
+			],
+			[
+				"undef",
+				"undefined"
+			],
+			[
+				"ba",
+				"basic_object_send"
+			],
+			[
+				"i",
+				"inc	Include Directive"
+			],
+			[
+				"ex",
+				"exec_ins"
+			],
+			[
+				"handle",
+				"handle_info"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"R",
+				"Reason"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"mo",
+				"monitor"
+			],
+			[
+				"Bef",
+				"BeforeEl"
+			],
+			[
+				"fal",
+				"falsy"
+			],
+			[
+				"tr",
+				"truthy"
+			],
+			[
+				"has",
+				"has_key"
+			],
+			[
+				"re",
+				"receive"
+			],
+			[
+				"range",
+				"range_end"
+			],
+			[
+				"ran",
+				"range_end"
+			],
+			[
+				"in",
+				"Interpreter"
+			],
+			[
+				"id",
+				"id_to_ins"
+			],
+			[
+				"req",
+				"reqrel	require File.expand_path('../"
+			],
+			[
+				"In",
+				"InstructionSet"
+			],
+			[
+				"I",
+				"InstructionSet"
+			],
+			[
+				"ins",
+				"instructions"
+			],
+			[
+				"instr",
+				"instruction_set"
+			],
+			[
+				"c",
+				"cla	class BlankSlate .. initialize .. end"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"V",
+				"VERSION_RE"
+			],
+			[
+				"VER",
+				"VERSION_PATTERN"
+			],
+			[
+				"pac",
+				"packages"
+			],
+			[
+				"Verio",
+				"Versionomy"
+			],
+			[
+				"ver",
+				"versions"
+			],
+			[
+				"Version",
+				"Versionomy"
+			],
+			[
+				"lat",
+				"latest_version"
+			],
+			[
+				"pack",
+				"PackageIt"
+			],
+			[
+				"version",
+				"versionomy"
+			],
+			[
+				"vers",
+				"Versionomy"
+			],
+			[
+				"VE",
+				"Versionomy"
+			],
+			[
+				"P",
+				"PATCH"
+			],
+			[
+				"mem",
+				"mem_val"
+			],
+			[
+				"exec",
+				"execution_address"
+			],
+			[
+				"port",
+				"port_file"
+			],
+			[
+				"opt",
+				"optp	option_parse { .. }"
+			],
+			[
+				"App",
+				"Application"
+			],
+			[
+				"global",
+				"global_variables"
+			],
+			[
+				"Object",
+				"ObjectSpace"
+			],
+			[
+				"modu",
+				"Module"
+			],
+			[
+				"each",
+				"each_object"
+			],
+			[
+				"sin",
+				"singleton_class"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"dim",
+				"dimension"
+			],
+			[
+				"player",
+				"player_index"
+			],
+			[
+				"pla",
+				"player_index"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"handl",
+				"handlers"
+			],
+			[
+				"import",
+				"import_multiple"
+			],
+			[
+				"d",
+				"do"
+			],
+			[
+				"url",
+				"url(image-url.gif)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"cam",
+				"camelCase-lower"
+			],
+			[
+				"array_",
+				"array_map"
+			],
+			[
+				"arr",
+				"array_merge"
+			],
+			[
+				"array",
+				"array_map"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"request",
+				"request_url"
+			],
+			[
+				"requ",
+				"request_uri"
+			],
+			[
+				"calluser",
+				"call_user_func_array"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"fun_g",
+				"func_get_args"
+			],
+			[
+				"register",
+				"register_tick_function"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"parse",
+				"parse_str"
+			],
+			[
+				"ob_clea",
+				"ob_end_clean"
+			],
+			[
+				"ob_Get",
+				"ob_get_contents"
+			],
+			[
+				"parse_",
+				"parse_url"
+			],
+			[
+				"Error",
+				"ErrorMiddleware"
+			],
+			[
+				"handler",
+				"handleErrors"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"call_user",
+				"call_user_method_array"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"jquer",
+				"jquery-ui"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/message.js",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/symbol.js",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "syntax.md",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/parser.jison",
+			"settings":
+			{
+				"buffer_size": 1520,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test-parser.js",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/parser.js",
+			"settings":
+			{
+				"buffer_size": 15996,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Rake.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"bison",
+				"Set Syntax: Bison"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"asm",
+				"Set Syntax: AVR ASM"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"refl",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"emmet: ref",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"erl",
+				"Set Syntax: Erlang"
+			],
+			[
+				"erlan",
+				"Set Syntax: Erlang"
+			],
+			[
+				"rdoc",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set syntax:",
+				"Set Syntax: R"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Groovy"
+			],
+			[
+				"set Syntax:",
+				"Set Syntax: YAML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo.txt"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"Sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"Jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Javas",
+				"Set Syntax: JavaScript (Rails)"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 282.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Drew/Development/Code/loke-lang/lexing.md",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/lexer.jisonlex",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/lexer.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser.jison'",
+		"/C/Users/Drew/Development/Code/loke-lang/parsing.md",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
+		"/C/Users/Drew/AppData/Roaming/.minecraft/config/JammyFurnitureMod.conf",
+		"/C/Users/Drew/Development/Code/JS/realtime/error.log",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/User/Javascript-Class.sublime-snippet",
+		"/C/Users/Drew/Development/Code/JS/realtime/node_modules/through/index.js",
+		"/C/Users/Drew/Development/Code/JS/realtime/values/lib/setable.js",
+		"/C/Users/Drew/Development/Code/JS/realtime/value/package.json",
+		"/C/Users/Drew/Development/Code/JS/realtime/value/lib/index.js",
+		"/C/Users/Drew/Development/Code/JS/realtime/value/test.js",
+		"/C/Users/Drew/Development/Code/JS/realtime/values/package.json",
+		"/C/Users/Drew/Development/Code/JS/realtime/values/lib/index.js",
+		"/C/Users/Drew/Development/Code/JS/realtime/values/test.js",
+		"/C/Users/Drew/Development/Code/JS/users/node_modules/harmony-reflect/reflect.js",
+		"/C/Users/Drew/Development/Code/JS/users/Makefile",
+		"/C/Users/Drew/Development/Code/JS/users/request.js",
+		"/C/Users/Drew/Development/Code/JS/users/user.js",
+		"/C/Users/Drew/Development/Code/JS/users/index.js",
+		"/C/Users/Drew/Development/Code/JS/users/package.json",
+		"/C/Users/Drew/Development/Code/JS/users/test.js",
+		"/C/Users/Drew/Development/Code/JS/index.js",
+		"/C/Users/Drew/Development/Code/JS/browser-builder/node_modules/browserify/index.js",
+		"/C/Users/Drew/Development/Code/JS/browser-builder/node_modules/browserify/bin/cmd.js",
+		"/C/Users/Drew/Development/Code/JS/browser-builder/package.json",
+		"/C/Users/Drew/Development/Code/JS/browser-builder/lib/index.js",
+		"/C/Users/Drew/Development/Code/JS/browser-builder/lib/bundle.js",
+		"/C/Users/Drew/Development/Code/JS/browser-builder/package.jsn",
+		"/C/Users/Drew/Development/Code/JS/server/package.json",
+		"/C/Users/Drew/Development/Code/JS/server/run.js",
+		"/C/Users/Drew/Development/Code/JS/server/test-app.js",
+		"/C/Users/Drew/Development/Code/JS/assembly/README.md",
+		"/C/Users/Drew/Development/Code/JS/server/app.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/test/interact.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/test/index.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/id.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/row.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/column.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/cell.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/index.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/README.md",
+		"/C/Users/Drew/Development/Code/JS/stream-db/test.output",
+		"/C/Users/Drew/Development/Code/JS/stream-db/package.json",
+		"/C/Users/Drew/Development/Code/JS/stream-db/node_modules/invert-stream/index.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/node_modules/scuttlebutt/index.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/node_modules/scuttlebutt/node_modules/duplex/index.js",
+		"/C/Users/Drew/Development/Code/JS/ruby-vm/package.json",
+		"/C/Users/Drew/Development/Code/JS/stream-db/doc/protocol.json",
+		"/C/Users/Drew/Development/Code/JS/stream-db/test/package.json",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/value.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/lib/row-column.js",
+		"/C/Users/Drew/Development/Code/JS/stream-db/test/Makefile",
+		"/C/Users/Drew/Development/Code/JS/stream-db",
+		"/C/Users/Drew/Development/Code/JS/server/index.js",
+		"/C/Users/Drew/Development/Code/JS/low-level/JS.sublime-workspace",
+		"/C/Users/Drew/Development/Code/armyjs/package.json",
+		"/C/Users/Drew/Development/Code/armyjs/Spec.md",
+		"/C/Users/Drew/Development/Code/armyjs/README.md",
+		"/C/Users/Drew/Development/Code/armyjs/bin/army",
+		"/C/Users/Drew/Development/Code/armyjs/lib/army/cli.js",
+		"/C/Users/Drew/Development/Code/armyjs/test/run.js",
+		"/C/Users/Drew/Development/Code/armyjs/lib/army/cli/start.js",
+		"/C/Users/Drew/Development/Code/armyjs/lib/army/cli/stop.js",
+		"/C/Users/Drew/Development/Code/armyjs/bin/rockets",
+		"/C/Users/Drew/Development/Code/armyjs/node_modules/coa/src/opt.coffee",
+		"/C/Users/Drew/Development/Code/armyjs/node_modules/coa/src/arg.coffee",
+		"/C/Users/Drew/Development/Code/armyjs/node_modules/coa/lib/opt.js",
+		"/C/Users/Drew/Development/Code/armyjs/node_modules/coa/lib/arg.js",
+		"/C/Users/Drew/Development/Code/armyjs/lib/army/state.js",
+		"/C/Users/Drew/Development/Code/armyjs/lib/rockets.js",
+		"/C/Users/Drew/Development/Code/armyjs/lib/rockets/swarm_http_adapter.js",
+		"/C/Users/Drew/Development/Code/armyjs/lib/rockets/swarm.js",
+		"/C/Users/Drew/Development/Code/armyjs/armyjs.sublime-workspace",
+		"/C/Users/Drew/Development/Code/armyjs/armyjs.sublime-project",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rockets.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rockets/cli/stop.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rockets/cli/start.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rockets/cli.js",
+		"/C/Users/Drew/Development/Code/rocketjs/bin/rocket",
+		"/C/Users/Drew/Development/Code/rocketjs/package.json",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/cli.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/cli/start.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/cli/stop.js",
+		"/C/Users/Drew/Development/Code/rocketjs/test/run.js",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/swarm.js",
+		"/C/Users/Drew/Development/Code/rocketjs/README.md",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/rocket.js",
+		"/C/Users/Drew/Development/Code/rocketjs/test/rocket.js",
+		"/C/Users/Drew/Development/Code/rocketjs/test/swarm.json",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/snippets.json",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default.sublime-commands",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/QuickFileMove/Default (Windows).sublime-keymap",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Main.sublime-menu",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet-plugin.py",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/context.py",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/editor.js",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Delete to EOL.sublime-macro",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Default.sublime-commands",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/state.js",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/JavaScript/Get-Elements.sublime-snippet",
+		"/C/Users/Drew/Development/Code/Erlang/mathimatical/math.erl",
+		"/C/Users/Drew/Development/Code/Erlang/Math/math.erl",
+		"/C/Users/Drew/Development/Code/Erlang/vm/bucket.erl",
+		"/C/Users/Drew/Development/Code/Erlang/vm/ruby.erl",
+		"/C/Users/Drew/Development/Code/Erlang/vm/vm.erl",
+		"/C/vendors/polycom/soundpoint/Config/sip-basic.cfg",
+		"/C/vendors/polycom/soundpoint/Config/device.cfg",
+		"/C/Program Files (x86)/OfficeSIP Server/OfficeSIP.pfx",
+		"/C/Program Files (x86)/OfficeSIP Server/OfficeSIP Server.exe.config",
+		"/C/Program Files (x86)/erl5.9.2/lib/gs-1.5.15.1/priv/tcl/lib/tcl8.5/encoding/iso8859-7.enc",
+		"/C/Users/Drew/Development/Code/Erlang/vm/iplace.erl",
+		"/C/Users/Drew/Development/Code/Erlang/vm/ruby.hrl",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Export-Directive.sublime-snippet",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Record-Directive.sublime-snippet",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Case-Expression.sublime-snippet",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/If-Expression.sublime-snippet",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Ifdef-Directive.sublime-snippet",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Import-Directive.sublime-snippet",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Ifndef-Directive.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Drew\\Development\\Code\\JS\\realtime\\values,-test.js",
+			"C:\\Users\\Drew\\Development\\Code\\JS\\realtime\\values",
+			"C:\\Users\\Drew\\Development\\Code\\JS\\users",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"popStack",
+			"pop",
+			"yyval",
+			"yyal",
+			"$$",
+			"messageChain",
+			"message",
+			"Settable",
+			"console",
+			"process.nextTick",
+			".id +",
+			"this.id +",
+			"d",
+			"data",
+			"Settable",
+			"JSValue",
+			"trace",
+			"pause",
+			"createStream",
+			"_end",
+			"destroy",
+			"data",
+			"wrap(",
+			"'Unauthorized'",
+			".name",
+			"name",
+			"Row",
+			"name",
+			"this",
+			"RowColumn",
+			"Value",
+			"RowColumn",
+			"Rocket",
+			"swarm",
+			"Swarm",
+			"Rocket",
+			"80",
+			"start",
+			"in",
+			"shift+ctrl+r",
+			"wrap_",
+			"ctrl+alt+,",
+			"ctrl+d",
+			"Lorem",
+			"tab",
+			"ctrl+e",
+			"body",
+			"_preinit",
+			"_init",
+			"_preinit",
+			"_init",
+			"boot(",
+			"do_call(",
+			"do_call(Pid, ",
+			"do_call(Pid, Label, Request, Timeout)",
+			"code_change",
+			"keymap(",
+			"SplitKey",
+			"Key",
+			"not",
+			"go",
+			"the",
+			"number_of_args",
+			"Rails",
+			"f",
+			"ctrl+i",
+			"ctrl+shift+f",
+			"Runel",
+			"VM",
+			"vm",
+			"VM",
+			"equal",
+			"duplicate_line",
+			" \"",
+			"ctrl+shift+d",
+			"ctrl+d",
+			"instruction_set",
+			"State",
+			"	",
+			"highest",
+			"op",
+			"push_trace",
+			"file",
+			"file =",
+			"cl",
+			"method_added",
+			"_defined",
+			"data",
+			"puts",
+			"above",
+			"below",
+			".empty?",
+			"index",
+			"pry",
+			"R::",
+			"R.",
+			"R",
+			"Rvents",
+			"E",
+			"e",
+			"E",
+			"define_proxy_class",
+			"define_class",
+			"self",
+			"Syntax::String",
+			"ctrl+shift+n",
+			"ctrl+shift+t",
+			"HTTP",
+			"::",
+			"read_request_complete",
+			"read_socket",
+			"route_request(",
+			"route_request",
+			"get_php_response",
+			"li",
+			"theme",
+			"\"action\": \"",
+			"ctrl+i",
+			"safjsdkfjafj",
+			"rwe7tw3948754389htjtuih5iugyv",
+			"hell",
+			"hel",
+			"he"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wrap(handle, ",
+			"new Error('Unauthorized')",
+			"Reactor",
+			"R"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/index.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/message.js",
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/symbol.js",
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "syntax.md",
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/parser.jison",
+					"settings":
+					{
+						"buffer_size": 1520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1025,
+								1025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test-parser.js",
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/parser.js",
+					"settings":
+					{
+						"buffer_size": 15996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1589.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"node_modules/through/",
+				"realtime/node_modules/through/index.js"
+			],
+			[
+				"harmony",
+				"users/node_modules/harmony-reflect/reflect.js"
+			],
+			[
+				"browseri/inde",
+				"browser-builder/node_modules/browserify/index.js"
+			],
+			[
+				"browserify/",
+				"browser-builder/node_modules/browserify/bin/cmd.js"
+			],
+			[
+				"invert-stream/in",
+				"stream-db/node_modules/invert-stream/index.js"
+			],
+			[
+				"ack",
+				"stream-db/package.json"
+			],
+			[
+				"duplex/in",
+				"stream-db/node_modules/scuttlebutt/node_modules/duplex/index.js"
+			],
+			[
+				"scuttlebutt/in",
+				"stream-db/node_modules/scuttlebutt/index.js"
+			],
+			[
+				"packa",
+				"stream-db/package.json"
+			],
+			[
+				"pack",
+				"ruby-vm/package.json"
+			],
+			[
+				"cell",
+				"stream-db/lib/cell.js"
+			],
+			[
+				"inter",
+				"stream-db/test/interact.js"
+			],
+			[
+				"pak",
+				"package.json"
+			],
+			[
+				"cli",
+				"lib/army/cli.js"
+			],
+			[
+				"cli/st",
+				"lib/army/cli/start.js"
+			],
+			[
+				"stop",
+				"lib/army/cli/stop.js"
+			],
+			[
+				"opt.co",
+				"node_modules/coa/src/opt.coffee"
+			],
+			[
+				"arm",
+				"armyjs.sublime-workspace"
+			],
+			[
+				"sw",
+				"lib/rockets/swarm.js"
+			],
+			[
+				"bir",
+				"bin/rocket"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"rock.js",
+				"lib/rocket/rocket.js"
+			],
+			[
+				"57",
+				"erl5.9.2/lib/gs-1.5.15.1/priv/tcl/lib/tcl8.5/encoding/iso8859-7.enc"
+			],
+			[
+				"c.erl",
+				"erl5.9.2/lib/stdlib-1.18.2/src/c.erl"
+			],
+			[
+				"shell.",
+				"erl5.9.2/lib/stdlib-1.18.2/src/shell.erl"
+			],
+			[
+				"gen.erl",
+				"erl5.9.2/lib/stdlib-1.18.2/src/gen.erl"
+			],
+			[
+				"gen_ser",
+				"erl5.9.2/lib/stdlib-1.18.2/src/gen_server.erl"
+			],
+			[
+				"gen_server",
+				"erl5.9.2/lib/stdlib-1.18.2/src/gen_server.erl"
+			],
+			[
+				"init.erl",
+				"erl5.9.2/lib/erts-5.9.2/src/init.erl"
+			],
+			[
+				"met",
+				"metadata.rb"
+			],
+			[
+				"rur",
+				"lib/runel.rb"
+			],
+			[
+				"run",
+				"runel.gemspec"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				".aut",
+				".autotest"
+			],
+			[
+				"st",
+				"lib/runel/state.rb"
+			],
+			[
+				"li",
+				"Libraries/node/deps/v8/src/list-inl.h"
+			],
+			[
+				"",
+				"Code/natural.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"cast",
+				"/C/Users/Drew/Development/Code/cast/cast.sublime-project"
+			],
+			[
+				"stream",
+				"/C/Users/Drew/Development/Code/stream-db/stream-db.sublime-project"
+			],
+			[
+				"vfs",
+				"/C/Users/Drew/Development/Code/Ruby/FileSystem/FileSystem.sublime-project"
+			],
+			[
+				"runic",
+				"/C/Users/Drew/Development/Code/Runes/Runic/runic.sublime-project"
+			],
+			[
+				"ruby",
+				"/C/Users/Drew/Development/Code/Ruby/Ruby.sublime-project"
+			],
+			[
+				"",
+				"/C/Users/Drew/Development/Code/Github/drewyoung1/ruby-game-engine/ruby-game-engine.sublime-project"
+			],
+			[
+				"ruby-",
+				"/C/Users/Drew/Development/Code/ruby-game-editor/ruby-game-editor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

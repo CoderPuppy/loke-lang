@@ -1,0 +1,13 @@
+{
+	"name": "loke",
+	"version": "0.0.0",
+	"author": "Drew Young",
+	"main": "./lib/index.js",
+	"dependencies": {
+		"hashmap": "~0.9.2"
+	},
+	"devDependencies": {
+		"ometajs": "~3.2.4",
+		"jison-lex": "~0.1.0"
+	}
+}
