@@ -4,6 +4,10 @@ var parser = require('./lib/parser');
 
 // parse('123');
 
+// parse('hello');
+
+// parse('hello world');
+
 // parse('123("abc") HelloWorld');
 
 // parse('"hello world" print');
@@ -14,9 +18,13 @@ var parser = require('./lib/parser');
 
 // parse('print("hello")');
 
-parse('{ a: b }');
+// parse('{ a: b }');
 
-// parse('a => b'); // Not Working 2/5/2013 10:28
+// parse('hello world. hello everyone');
+
+// parse('hello([hello, everyone])');
+
+// parse('a => b'); // Not Working 2/28/2013 10:16
 
 function print(chain) {
 	console.log(util.inspect(chain, false, null, true));

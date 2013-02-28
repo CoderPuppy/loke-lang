@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"_in",
+				"_intermediateLaze"
+			],
+			[
 				"on",
 				"onUpdate"
 			],
@@ -508,66 +512,66 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 162,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/index.js",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/message.js",
-			"settings":
-			{
-				"buffer_size": 418,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/symbol.js",
-			"settings":
-			{
-				"buffer_size": 513,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "syntax.md",
-			"settings":
-			{
-				"buffer_size": 263,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/parser.jison",
-			"settings":
-			{
-				"buffer_size": 1520,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "test-parser.js",
 			"settings":
 			{
-				"buffer_size": 309,
+				"buffer_size": 589,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/parser.js",
+			"file": "lib/parser/parser.js",
 			"settings":
 			{
-				"buffer_size": 15996,
+				"buffer_size": 13089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/parser/parser.ometajs",
+			"settings":
+			{
+				"buffer_size": 2303,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/parser/lexer.ometajs",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/parser/lexer.js",
+			"settings":
+			{
+				"buffer_size": 3488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/parser/lexer.jisonlex",
+			"settings":
+			{
+				"buffer_size": 667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/ometajs/lib/ometajs/core/parser.js",
+			"settings":
+			{
+				"buffer_size": 10661,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/ometajs/lib/ometajs/core/grammar.js",
+			"settings":
+			{
+				"buffer_size": 15841,
 				"line_ending": "Unix"
 			}
 		}
@@ -575,21 +579,9 @@
 	"build_system": "Packages/User/Rake.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 196.0,
 		"selected_items":
 		[
-			[
-				"pla",
-				"Set Syntax: Plain Text"
-			],
-			[
-				"bison",
-				"Set Syntax: Bison"
-			],
-			[
-				"plain",
-				"Set Syntax: Plain Text"
-			],
 			[
 				"remove",
 				"Package Control: Remove Package"
@@ -597,6 +589,18 @@
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"bison",
+				"Set Syntax: Bison"
 			],
 			[
 				"css",
@@ -792,9 +796,42 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Drew/Development/Code/loke-lang/lexing.md",
-		"/C/Users/Drew/Development/Code/loke-lang/lib/lexer.jisonlex",
+		"/C/Users/Drew/Development/Code/loke-lang/node_modules/ometajs/lib/ometajs/core/grammar.js",
+		"/C/Users/Drew/Development/Code/loke-lang/node_modules/ometajs/lib/ometajs/core/parser.js",
+		"/C/Users/Drew/Development/Code/loke-lang/node_modules/ometajs/lib/ometajs/compiler/ir.js",
+		"/C/Users/Drew/Development/Code/loke-lang/node_modules/ometajs/lib/ometajs/compiler/core.js",
+		"/C/Users/Drew/Development/Code/loke-lang/package.json",
+		"/C/Users/Drew/Development/Code/loke-lang/node_modules/ometajs/lib/ometajs/compiler/ast.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser/index.js",
+		"/C/Users/Drew/Development/Code/loke-lang/test-parser.js",
+		"/C/Users/Drew/Development/Code/loke-lang/test-lexer.js",
+		"/C/Users/Drew/Development/Code/loke-lang/node_modules/ometajs/lib/ometajs/parser.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser/lexer.jisonlex",
+		"/C/Users/Drew/Development/Code/loke-lang/Makefile",
+		"/C/Users/Drew/Development/Code/ometa-js/lib/ometajs/core/grammar.js",
+		"/C/Users/Drew/Development/Code/ometa-js/lib/core/generator.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/args.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/message.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser/lexer.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser/parser.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser/parser.jison",
+		"/C/Users/Drew/Development/Code/loke-lang/syntax.lk",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser.ometajs",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/parser.jison",
 		"/C/Users/Drew/Development/Code/loke-lang/lib/lexer.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/lexer.jisonlex",
+		"/C/Users/Drew/Development/Code/loke-lang/readme.md",
+		"/C/Users/Drew/Development/Code/loke-lang/syntax.ir",
+		"/C/Users/Drew/Development/Code/loke-lang/syntax.md",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/symbol.js",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/index.js",
+		"/C/Users/Drew/Development/Code/Github/lex-parser/lex.l",
+		"/C/Users/Drew/Development/Code/Github/lex-parser/otherlex.l",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/lex.jisonlex",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/lex.l",
+		"/C/Users/Drew/Development/Code/loke-lang/lib/lexer.l",
+		"/C/Users/Drew/Development/Code/loke-lang/lexing.md",
 		"/C/Users/Drew/Development/Code/loke-lang/lib/parser.jison'",
 		"/C/Users/Drew/Development/Code/loke-lang/parsing.md",
 		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
@@ -886,40 +923,7 @@
 		"/C/Users/Drew/Development/Code/rocketjs/test/rocket.js",
 		"/C/Users/Drew/Development/Code/rocketjs/test/swarm.json",
 		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/snippets.json",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default.sublime-commands",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/QuickFileMove/Default (Windows).sublime-keymap",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/Main.sublime-menu",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet-plugin.py",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/context.py",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/editor.js",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Delete to EOL.sublime-macro",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Default/Default.sublime-commands",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Drew/Development/Code/rocketjs/lib/rocket/state.js",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/JavaScript/Get-Elements.sublime-snippet",
-		"/C/Users/Drew/Development/Code/Erlang/mathimatical/math.erl",
-		"/C/Users/Drew/Development/Code/Erlang/Math/math.erl",
-		"/C/Users/Drew/Development/Code/Erlang/vm/bucket.erl",
-		"/C/Users/Drew/Development/Code/Erlang/vm/ruby.erl",
-		"/C/Users/Drew/Development/Code/Erlang/vm/vm.erl",
-		"/C/vendors/polycom/soundpoint/Config/sip-basic.cfg",
-		"/C/vendors/polycom/soundpoint/Config/device.cfg",
-		"/C/Program Files (x86)/OfficeSIP Server/OfficeSIP.pfx",
-		"/C/Program Files (x86)/OfficeSIP Server/OfficeSIP Server.exe.config",
-		"/C/Program Files (x86)/erl5.9.2/lib/gs-1.5.15.1/priv/tcl/lib/tcl8.5/encoding/iso8859-7.enc",
-		"/C/Users/Drew/Development/Code/Erlang/vm/iplace.erl",
-		"/C/Users/Drew/Development/Code/Erlang/vm/ruby.hrl",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Export-Directive.sublime-snippet",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Record-Directive.sublime-snippet",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Case-Expression.sublime-snippet",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/If-Expression.sublime-snippet",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Ifdef-Directive.sublime-snippet",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Import-Directive.sublime-snippet",
-		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Erlang/Ifndef-Directive.sublime-snippet"
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/snippets.json"
 	],
 	"find":
 	{
@@ -930,6 +934,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"<open folders>",
 			"C:\\Users\\Drew\\Development\\Code\\JS\\realtime\\values,-test.js",
 			"C:\\Users\\Drew\\Development\\Code\\JS\\realtime\\values",
 			"C:\\Users\\Drew\\Development\\Code\\JS\\users",
@@ -941,6 +946,45 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"_atomic",
+			"var",
+			"foreign",
+			"this.__cache = {}",
+			"__cache",
+			"_atomic =",
+			"_match",
+			"_rule =",
+			"foreign",
+			"digit",
+			"number",
+			"options",
+			"if (!res",
+			"if (!status",
+			"error",
+			"token",
+			"_getType =",
+			"_getType",
+			"_current",
+			"_word =",
+			"_token =",
+			"token =",
+			"token",
+			"_rule",
+			", ' '",
+			"_match",
+			", 0",
+			"_word",
+			"_setIntermediate",
+			"matchAll",
+			".token",
+			"token",
+			"number",
+			"digit",
+			"number",
+			"AbstractGrammar",
+			"AbstractGrammat",
+			"Abstract",
+			"token",
 			"popStack",
 			"pop",
 			"yyval",
@@ -1029,41 +1073,7 @@
 			"method_added",
 			"_defined",
 			"data",
-			"puts",
-			"above",
-			"below",
-			".empty?",
-			"index",
-			"pry",
-			"R::",
-			"R.",
-			"R",
-			"Rvents",
-			"E",
-			"e",
-			"E",
-			"define_proxy_class",
-			"define_class",
-			"self",
-			"Syntax::String",
-			"ctrl+shift+n",
-			"ctrl+shift+t",
-			"HTTP",
-			"::",
-			"read_request_complete",
-			"read_socket",
-			"route_request(",
-			"route_request",
-			"get_php_response",
-			"li",
-			"theme",
-			"\"action\": \"",
-			"ctrl+i",
-			"safjsdkfjafj",
-			"rwe7tw3948754389htjtuih5iugyv",
-			"hell",
-			"hel",
-			"he"
+			"puts"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1085,49 +1095,23 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "test-parser.js",
 					"settings":
 					{
-						"buffer_size": 162,
+						"buffer_size": 589,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								162,
-								162
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lib/index.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								361,
+								361
 							]
 						],
 						"settings":
@@ -1141,24 +1125,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "lib/message.js",
+					"buffer": 1,
+					"file": "lib/parser/parser.js",
 					"settings":
 					{
-						"buffer_size": 418,
+						"buffer_size": 13089,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								418,
-								418
+								2708,
+								2708
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2835.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/parser/parser.ometajs",
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -1169,24 +1181,23 @@
 				},
 				{
 					"buffer": 3,
-					"file": "lib/symbol.js",
+					"file": "lib/parser/lexer.ometajs",
 					"settings":
 					{
-						"buffer_size": 513,
+						"buffer_size": 622,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								27,
-								27
+								622,
+								622
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1196,90 +1207,38 @@
 				},
 				{
 					"buffer": 4,
-					"file": "syntax.md",
+					"file": "lib/parser/lexer.js",
 					"settings":
 					{
-						"buffer_size": 263,
+						"buffer_size": 3488,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								263,
-								263
+								2908,
+								2908
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1140.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "lib/parser.jison",
+					"file": "lib/parser/lexer.jisonlex",
 					"settings":
 					{
-						"buffer_size": 1520,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1025,
-								1025
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 280.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "test-parser.js",
-					"settings":
-					{
-						"buffer_size": 309,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								176,
-								176
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "lib/parser.js",
-					"settings":
-					{
-						"buffer_size": 15996,
+						"buffer_size": 667,
 						"regions":
 						{
 						},
@@ -1292,12 +1251,66 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "node_modules/ometajs/lib/ometajs/core/parser.js",
+					"settings":
+					{
+						"buffer_size": 10661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4190,
+								4199
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1589.0,
+						"translation.y": 2585.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "node_modules/ometajs/lib/ometajs/core/grammar.js",
+					"settings":
+					{
+						"buffer_size": 15841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8567,
+								8567
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3830.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1350,6 +1363,62 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"grama",
+				"node_modules/ometajs/lib/ometajs/core/grammar.js"
+			],
+			[
+				"parser.js",
+				"node_modules/ometajs/lib/ometajs/core/parser.js"
+			],
+			[
+				"ast",
+				"node_modules/ometajs/lib/ometajs/compiler/ast.js"
+			],
+			[
+				"ir",
+				"node_modules/ometajs/lib/ometajs/compiler/ir.js"
+			],
+			[
+				"core.js",
+				"node_modules/ometajs/lib/ometajs/compiler/core.js"
+			],
+			[
+				"test-pa",
+				"test-parser.js"
+			],
+			[
+				"lexer.jis",
+				"lib/parser/lexer.jisonlex"
+			],
+			[
+				"test-lex",
+				"test-lexer.js"
+			],
+			[
+				"parser",
+				"node_modules/ometajs/lib/ometajs/core/parser.js"
+			],
+			[
+				"lexer.js",
+				"lib/parser/lexer.js"
+			],
+			[
+				"lexer.",
+				"lib/parser/lexer.jisonlex"
+			],
+			[
+				"mess",
+				"lib/message.js"
+			],
+			[
+				"lexer",
+				"lib/parser/lexer.jisonlex"
+			],
+			[
+				"gramm",
+				"node_modules/ometajs/lib/ometajs/core/grammar.js"
+			],
 			[
 				"node_modules/through/",
 				"realtime/node_modules/through/index.js"
@@ -1511,6 +1580,18 @@
 		"selected_items":
 		[
 			[
+				"",
+				"/C/Users/Drew/Development/Code/Github/drewyoung1/ruby-game-engine/ruby-game-engine.sublime-project"
+			],
+			[
+				"ext",
+				"/C/Users/Drew/Development/Code/extcraft/extcraft.sublime-project"
+			],
+			[
+				"js",
+				"/C/Users/Drew/Development/Code/JS/JS.sublime-project"
+			],
+			[
 				"cast",
 				"/C/Users/Drew/Development/Code/cast/cast.sublime-project"
 			],
@@ -1531,10 +1612,6 @@
 				"/C/Users/Drew/Development/Code/Ruby/Ruby.sublime-project"
 			],
 			[
-				"",
-				"/C/Users/Drew/Development/Code/Github/drewyoung1/ruby-game-engine/ruby-game-engine.sublime-project"
-			],
-			[
 				"ruby-",
 				"/C/Users/Drew/Development/Code/ruby-game-editor/ruby-game-editor.sublime-project"
 			]
@@ -1545,6 +1622,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 203.0,
+	"side_bar_width": 210.0,
 	"status_bar_visible": true
 }
